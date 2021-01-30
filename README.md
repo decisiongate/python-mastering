@@ -34,8 +34,9 @@ Python, Py4J, PyCharm Professional, ...
 
 ## Configuring:
 
-Python Integrated Tools (default test runner): pytest
+- Python Integrated Tools (default test runner): pytest
 
+- PyCharm's Terminal tool:
 ```
 pip install -e .[tests]
 ```
