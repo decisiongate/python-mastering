@@ -38,5 +38,8 @@ Python, Py4J, PyCharm Professional, ...
 
 - PyCharm's Terminal tool:
 ```
+pip install --upgrade pip 
 pip install -e .[tests]
 ```
+
+![Test-driven development (TDD)](/images/tdd.jpg)
