@@ -33,7 +33,7 @@ Python, Py4J, PyCharm Professional, ...
 - https://www.jetbrains.com/help/pycharm/setting-up-your-project.html
 
 ### Converting to HTML:
-
+- https://github.com/cbernet/jupyter_web
 
 ## Configuring:
 
