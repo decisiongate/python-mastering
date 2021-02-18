@@ -32,6 +32,9 @@ Python, Py4J, PyCharm Professional, ...
 - https://www.jetbrains.com/pycharm/guide/tutorials/visual_pytest/setup/
 - https://www.jetbrains.com/help/pycharm/setting-up-your-project.html
 
+### Converting to HTML:
+
+
 ## Configuring:
 
 - Python Integrated Tools (default test runner): pytest
